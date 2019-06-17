@@ -1,3 +1,3 @@
 # Derivations
 
-Just some derivations for suckless utilities I made.
+Just some derivations I made for some suckless tools.
