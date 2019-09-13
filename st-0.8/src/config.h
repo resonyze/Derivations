@@ -8,7 +8,7 @@
 
 #include "vector.h"
 
-static char *font = "Hack:pixelsize=15:antialias=true:autohint=true";
+static char *font = "monospace:pixelsize=15:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
